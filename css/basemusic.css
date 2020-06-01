@@ -12,7 +12,6 @@ body {
 	margin: 0;
 	--color-text: #fff;
 	--color-bg: #000;
-        --background-image: url (bg.jpg);
 	--color-link: #900C3F;
 	--color-link-hover: #fff;
 	--anim-time: 3s;
@@ -60,9 +59,9 @@ canvas {
 .p5_loading__inner {
 	width: 60px;
 	height: 60px;
-	border-radius: 50%;
+	border-radius: 30%;
 	opacity: 0.8;
-	background: var(--background-image);
+	background: var(--color-link);
 	animation: loaderAnim 0.7s linear infinite alternate forwards;
 }
 
