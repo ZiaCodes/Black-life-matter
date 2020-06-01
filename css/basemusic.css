@@ -12,7 +12,7 @@ body {
 	margin: 0;
 	--color-text: #fff;
 	--color-bg: #000;
-	--color-link: #aaa;
+	--color-link: #900C3F;
 	--color-link-hover: #fff;
 	--anim-time: 3s;
 	--anim-delay-first: 1s;
@@ -60,7 +60,7 @@ canvas {
 	width: 60px;
 	height: 60px;
 	border-radius: 50%;
-	opacity: 0.4;
+	opacity: 0.8;
 	background: var(--color-link);
 	animation: loaderAnim 0.7s linear infinite alternate forwards;
 }
