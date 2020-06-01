@@ -61,7 +61,7 @@ canvas {
 	height: 60px;
 	border-radius: 50%;
 	opacity: 0.4;
-	background-image: url('/bg.jpg');
+	background-image: url(bg.jpg);
 	animation: loaderAnim 0.7s linear infinite alternate forwards;
 }
 
