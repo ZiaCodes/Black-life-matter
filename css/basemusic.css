@@ -11,8 +11,8 @@
 body {
 	margin: 0;
 	--color-text: #fff;
-	--color-bg: #000;
-	--color-link: #aaa;
+	--color-bg: #900C3F;
+	--color-link: #000;
 	--color-link-hover: #fff;
 	--anim-time: 3s;
 	--anim-delay-first: 1s;
@@ -61,7 +61,7 @@ canvas {
 	height: 60px;
 	border-radius: 50%;
 	opacity: 0.4;
-	background-image: url(bg.jpg);
+	background-image: var(--color-link);
 	animation: loaderAnim 0.7s linear infinite alternate forwards;
 }
 
