@@ -57,9 +57,9 @@ canvas {
 }
 
 .p5_loading__inner {
-	width: 120px;
+	width: 180px;
 	height: 60px;
-	border-radius: 30%;
+	border-radius: 50%;
 	opacity: 0.8;
 	background: var(--color-link);
 	animation: loaderAnim 0.7s linear infinite alternate forwards;
