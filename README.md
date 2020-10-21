@@ -36,7 +36,7 @@ It uses WebGl to distort images with the help of shadders.There is total four pa
 
 ***
 
-#### Download BLM
+#### Download 
 From Terminal
 ```
 git clone https://github.com/ZiaXDev/Black-life-matter.git
